@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "My CV"
+description: "View my CV"
+date:   2015-12-26 09:32:24
+categories: web
+device: "cv"
+permalink: "resume"
+name: "View my CV"
+tagline: "(scroll right or left for projects)"
+---
+
+{% img center | /images/view my cv/cv_p1.png | CV Page 1%}
