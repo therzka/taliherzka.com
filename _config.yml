@@ -1,12 +1,12 @@
 # Site settings
-title: Tali Herzka
+title: Tali Herzka's Portfolio
 email: tali@herzka.com
 description: ""
 info: ""
-message: ""
+message: "[under construction]"
 keywords: "development,ruby,jekyll,python"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.taliherzka.com" # the base hostname & protocol for your site
+url: "http://taliherzka.com" # the base hostname & protocol for your site
 twitter_username: therzka
 # Build settings
 markdown: kramdown
@@ -15,6 +15,6 @@ author:
     twitter: therzka
     url: http://taliherzka.com
     avatar: /images/headshot.png
-    email: tali@herzka.com.com
+    email: tali@herzka.com
 facebook:
     image: /images/delightfuldev-facebook-cover.png
