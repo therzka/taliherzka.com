@@ -9,14 +9,19 @@ module Jekyll
       @alignmentClass = "content__item-img-" + input[0].strip + " animated zoomIn"
       @src = input[1].strip
       @alt = input[2].strip
+      if input.length > 3
+        @href = input[3].strip
+      end
     end
 
     def render(context)
         if @alignment.downcase == "fill-width"
             # See below for explanation of [[[[  ]]]]
             "[[[[  <img class=\""+@alignmentClass+"\" src=\""+@src+"\" alt=\""+@alt+"\" /> ]]]]"
+        elsif @href
+            "<a href=\""+@href+"\"><img class=\""+@alignmentClass+"\" src=\""+@src+"\" alt=\""+@alt+"\" /></a>"
         else
-            "<img class=\""+@alignmentClass+"\" src=\""+@src+"\" alt=\""+@alt+"\" />"
+          "<img class=\""+@alignmentClass+"\" src=\""+@src+"\" alt=\""+@alt+"\" />"
         end
     end
   end

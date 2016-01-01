@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "My CV"
+subtitle: ""
 description: "View my CV"
 date:   2015-12-26 09:32:24
 categories: web
+permalink: "cv.html"
 device: "cv"
-permalink: "resume"
-name: "View my CV"
-tagline: "(scroll right or left for projects)"
+name: "Curriculum Vitae"
+tagline: "(scroll right or left for other things)"
 ---
 
 {% img center | /images/view my cv/cv_p1.png | CV Page 1%}
