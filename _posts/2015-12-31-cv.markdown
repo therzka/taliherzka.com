@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "My CV"
+title:  ""
 subtitle: ""
+app_icon: /images/none.png
 description: "View my CV"
 date:   2015-12-26 09:32:24
 categories: web

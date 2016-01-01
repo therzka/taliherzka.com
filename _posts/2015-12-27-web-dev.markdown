@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Web Dev"
+subtitle: ""
+description: ""
+app_icon: /images/none.png
+date:   2015-12-26 09:32:24
+categories: web
+permalink: "webdev.html"
+device: "none"
+name: "Web Dev"
+tagline: ""
+---
+{% section_title kensingtoncycling.club %}
+{% textalign center %}
+A website and blog for an elite Bay Area cycling team built using Jekyll
+{% endtextalign %}
+{% img center | /images/web dev/fbhighlight.png | Kensington Cycling Club Website | http://kensingtoncycling.club %} 
+<!-- {% img center | /images/web dev/kccblog.png | Kensington Cycling Club Website %} -->

@@ -1,3 +1,5 @@
-aspiring web developer, knitter, crocheter, avid podcast listener, photographer 
+former biologist and aspiring web developer who hates writing bios.
 
-find out more:
+
+
+let's chat if you want to find out more:
