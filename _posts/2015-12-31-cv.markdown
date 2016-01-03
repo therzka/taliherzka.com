@@ -17,3 +17,7 @@ Check me out on <a href="http://linkedin.com/in/taliherzka">LinkedIn</a>
 {% endtextalign %}
 
 {% img center | /images/curriculum vitae/cv_p1.png | CV Page 1%}
+
+{% textalign center%}
+<a href="/images/Tali_herzka_CV.pdf" download>Download CV</a>
+{% endtextalign %}
