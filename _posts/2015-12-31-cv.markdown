@@ -12,4 +12,8 @@ name: "Curriculum Vitae"
 tagline: "(scroll right or left for other things)"
 ---
 
-{% img center | /images/view my cv/cv_p1.png | CV Page 1%}
+{% textalign center%}
+Check me out on <a href="http://linkedin.com/in/taliherzka">LinkedIn</a>
+{% endtextalign %}
+
+{% img center | /images/curriculum vitae/cv_p1.png | CV Page 1%}

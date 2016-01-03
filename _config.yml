@@ -1,7 +1,7 @@
 # Site settings
 title: Tali Herzka
 email: tali@herzka.com
-description: ""
+description: "The personal website of Tali Herzka"
 info: ""
 message: ""
 keywords: "development,ruby,jekyll,python"
@@ -19,4 +19,4 @@ author:
     avatar: /images/headshot.png
     email: tali@herzka.com
 facebook:
-    image: /images/delightfuldev-facebook-cover.png
+    image: /images/fbimage.jpg
