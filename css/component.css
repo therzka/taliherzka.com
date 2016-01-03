@@ -69,7 +69,7 @@ body {
 	display: block;
 	letter-spacing: 2px;
 	text-transform: uppercase;
-	color: #35303d;
+	color: rgba(91, 95, 99, 0.62);
 }
 
 .slider__nav {
@@ -87,7 +87,7 @@ body {
 	margin: 0 25px;
 	padding: 0;
 	cursor: pointer;
-	color: #5c5edc;
+	color: rgba(94, 160, 222, 0.97);
 	border: none;
 	background: none;
 }
@@ -233,7 +233,7 @@ body {
 	overflow-y: scroll;
 	width: 100%;
 	height: 100vh;
-	background: #18191b;
+	background: #1A1528;
 	-webkit-overflow-scrolling: touch;
 }
 
@@ -279,7 +279,7 @@ body {
 	font-size: 1.95em;
 	font-weight: normal;
 	margin: 0.25em 0 0.5em;
-	color: #685884;
+	color: rgba(72, 124, 173, 0.84);
 }
 
 .content p {
