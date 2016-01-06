@@ -218,19 +218,19 @@ a:hover {
 }
 
 .bp-icon-about:after {
-    content: '\e808';
+    content: '\e802';
 }
 
 .bp-icon-linkedin:after {
-    content: '\e817';
+    content: '\e807';
 }
 
 .bp-icon-github:after {
-    content: '\e814';
+    content: '\e804';
 }
 
 .bp-icon-twitter:after {
-	content: '\e801';
+	content: '\e803';
 }
 
 .bp-icon-heart:after {
@@ -238,7 +238,7 @@ a:hover {
 }
 
 .bp-icon-email:after {
-	content: '\e800';
+	content: '\e805';
 }
 
 .bp-icon-prev:after {
@@ -246,7 +246,7 @@ a:hover {
 }
 
 .bp-icon-child:after {
-	content: '\e812';
+	content: '\e802';
 }
 
 .bp-icon-close:after {
