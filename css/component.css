@@ -87,7 +87,7 @@ body {
 	margin: 0 25px;
 	padding: 0;
 	cursor: pointer;
-	color: rgba(94, 160, 222, 0.97);
+	color: #000;
 	border: none;
 	background: none;
 }
@@ -97,7 +97,7 @@ body {
 }
 
 .button:hover {
-	color: #fff;
+	color: #3c316b;
 }
 
 .text-hidden {
@@ -233,7 +233,7 @@ body {
 	overflow-y: scroll;
 	width: 100%;
 	height: 100vh;
-	background: #1A1528;
+	background: #fafafa;
 	-webkit-overflow-scrolling: touch;
 }
 
@@ -254,7 +254,7 @@ body {
 	padding: 2em 0;
 	pointer-events: none;
 	opacity: 0;
-	color: #fff;
+	color: #000;
 	-webkit-align-items: center;
 	-ms-flex-align: center;
 	align-items: center;
@@ -279,7 +279,7 @@ body {
 	font-size: 1.95em;
 	font-weight: normal;
 	margin: 0.25em 0 0.5em;
-	color: rgba(72, 124, 173, 0.84);
+	color: #000000;
 }
 
 .content p {

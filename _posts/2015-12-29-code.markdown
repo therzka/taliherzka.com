@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "GitHub"
+title:  "Code"
 subtitle: ""
 description: ""
 app_icon: /images/none.png
 date:   2015-12-26 09:32:24
 categories: web
-permalink: "github.html"
+permalink: "code.html"
 external_url: https://github.com/therzka
 device: "none"
-name: "GitHub"
+name: "Code"
 tagline: ""
 ---

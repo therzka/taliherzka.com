@@ -50,8 +50,8 @@ html {
 /* Main styles */
 body {
 	font-family: "Avenir", 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
-	color: rgba(94, 160, 222, 0.97);
-	background: #1A1528;
+	color: #000000;
+	background: #fafafa;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -67,7 +67,7 @@ a:focus {
 }
 
 a:hover {
-	color: #fff;
+	color: #000;
 }
 
 /* Blueprint header */
@@ -100,7 +100,7 @@ a:hover {
 	width: 100%;
 	font-weight: 700;
 	font-size: 0.85em;
-	color: rgba(94, 160, 222, 0.97);
+	color: #000000;
 	position: relative;
 	z-index: 100;
 	display: block;
@@ -135,7 +135,7 @@ a:hover {
 	letter-spacing: 0;
 	text-transform: none;
 	color: #fff;
-	background: #1A1528;
+	background: #fafafa;
 }
 
 #site-info {
@@ -164,7 +164,7 @@ a:hover {
 
 .bp-header nav a:hover:before {
 	content: attr(data-info);
-	color: #595A5F;
+	color: #3c316b;
 	font-weight: bold;
 	font-size: 0.85em;
 	position: absolute;
@@ -176,7 +176,7 @@ a:hover {
 }
 
 .bp-header nav a:hover {
-	background: #1A1528;
+	background: #3c316b;
 }
 
 .bp-icon:after {
@@ -186,7 +186,7 @@ a:hover {
 	font-variant: normal;
 	text-align: center;
 	text-transform: none;
-	color: rgba(94, 160, 222, 0.97);
+	color: #000000;
 	speak: none;
 	-webkit-font-smoothing: antialiased;
 }
@@ -439,7 +439,7 @@ a.centerbutton {
 	text-indent: 0;
 	letter-spacing: 0;
 	color: #fff;
-	background: #1A1528;
+	background: #fafafa;
 	display: none;
 }
 

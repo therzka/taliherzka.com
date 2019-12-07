@@ -7,17 +7,15 @@ description: "View my CV"
 date:   2015-12-26 09:32:24
 categories: web
 permalink: "cv.html"
-device: "cv"
+device: "none"
 name: "Curriculum Vitae"
 tagline: "(scroll right or left for other things)"
 ---
 
 {% textalign center%}
-Check me out on <a href="http://linkedin.com/in/taliherzka">LinkedIn</a>
-{% endtextalign %}
+<a href="http://linkedin.com/in/taliherzka">{% img center | /images/curriculum vitae/linkedin.png | LinkedIn 1%}</a>
 
 {% img center | /images/curriculum vitae/cv_p1.png | CV Page 1%}
 
-{% textalign center%}
 <a href="/images/Tali_herzka_CV.pdf" download>Download CV</a>
 {% endtextalign %}

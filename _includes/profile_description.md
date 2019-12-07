@@ -1,4 +1,4 @@
-I'm a former biologist and current aspiring web developer who hates writing bios.
+I'm a former biologist and current software developer who hates writing bios.
 
 
 
